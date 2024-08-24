@@ -1,0 +1,20 @@
+{
+  "name": "theres-waldo",
+  "version": "0.0.0",
+  "description": "A utility to find the directory and file name of the file from which it's called",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnhenry/theres-waldo"
+  },
+  "keywords": [
+    "file",
+    "directory",
+    "path",
+    "utility",
+    "es6"
+  ],
+  "author": "",
+  "license": "MIT"
+}
